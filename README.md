@@ -1,9 +1,12 @@
+# Cbse Result Management System For Class 9th and 10th
 # In this project there are 3 panel
 * School
 * Teacher
 * Student
 
+
 ![alt text](http://padmasoft.padmaacademy.com/images/portfolio/cbsep.jpg)
+
 
 # HOW TO RUN ON LOCALHOST
 Frist go to localhost/phpmyadmin/ and create data base name as 'padmaiyp_cbse' then import the padmaiyp.sql file in phpmyadmin.
